@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Vishal S",
+      "email": "vishal@example.com",
+      "phone": "+919876543210",
+      "dob": "2000-05-15",
+      "gender": "male",
+      "address": "123, Main Street, Chennai, India",
+      "course": "Web Development",
+      "password": "mypassword123",
+      "showPassword": false
+    },
+    {
+      "id": "2",
+      "fullName": "Jai Surya",
+      "email": "jai@example.com",
+      "phone": "+919812345678",
+      "dob": "1999-08-20",
+      "gender": "male",
+      "address": "45, Gandhi Road, Karaikudi, India",
+      "course": "Java Full Stack",
+      "password": "securepass456",
+      "showPassword": false
+    },
+    {
+      "id": "1f59",
+      "fullName": "vinsten",
+      "email": "vins@gmail.com",
+      "phone": "9843572440",
+      "dob": "2003-08-03",
+      "gender": "male",
+      "address": "vadanagar avudaiyarkovil",
+      "course": "Web Development",
+      "password": "123456",
+      "showPassword": false
+    },
+    {
+      "id": "4a87",
+      "fullName": "vishwa",
+      "email": "vishwa@gmail.com",
+      "phone": "8989888999",
+      "dob": "2025-08-31",
+      "gender": "male",
+      "address": "chennai,TamilNadu",
+      "course": "Web Development",
+      "password": "1234567890",
+      "showPassword": false
+    },
+    {
+      "id": "1c17",
+      "fullName": "vinsten",
+      "email": "vish@gamil.com",
+      "phone": "9009900990",
+      "dob": "2025-09-18",
+      "gender": "male",
+      "address": "CHENNAI",
+      "course": "Web Development",
+      "password": "000000",
+      "showPassword": false
+    },
+    {
+      "id": "7b00",
+      "fullName": "vishal",
+      "email": "vishal@gmail.com",
+      "phone": "98765434",
+      "dob": "2025-09-17",
+      "gender": "male",
+      "address": "chennai",
+      "course": "Web Development",
+      "password": "123456",
+      "showPassword": false
+    }
+  ]
+}
